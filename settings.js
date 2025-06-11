@@ -13,7 +13,7 @@ module.exports = {
     // add your prefix for bot
 
     BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
-    // add bot name here for menu
+    // add bot name here 
 
     MODE: process.env.MODE || "public",
     // make bot public-private-inbox-group 
